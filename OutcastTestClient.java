@@ -1,4 +1,3 @@
-
 public class OutcastTestClient {
     public static void main(String[] args) {
         WordNet wordnet = new WordNet(args[0], args[1]);

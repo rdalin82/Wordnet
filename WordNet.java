@@ -103,17 +103,7 @@ public class WordNet {
         return nums;
     }
     public static void main(String[] args) {
-//       WordNet w = new WordNet(args[0], args[1]);
-//       String wordone = "sleaziness";
-//       String wordtwo = "sleepiness";
-//       String wordthree = "mango";
-//       String wordfour = "peach";
-//       System.out.println("For inputs " + wordone + " and " + wordtwo);
-//       System.out.println("Ancestor is " + w.sap(wordone, wordtwo));
-//       System.out.println("Distance is " + w.distance(wordone, wordtwo));
-//       System.out.println("Ancestor is " + w.sap(wordthree, wordfour));
-//       System.out.println("Distance is " + w.distance(wordthree, wordfour));
-//       System.out.println(w.isNoun("sleaziness"));
+
 
     }
 
